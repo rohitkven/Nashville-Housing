@@ -1,13 +1,13 @@
-## Nashville-Housing
+### Nashville-Housing
 Data Cleanup using SQL
 
 This is to demonstrate data cleaning before using it for analysis 
 
 
-### Data Source:  https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data
+#### Data Source:  https://www.kaggle.com/datasets/tmthyjames/nashville-housing-data
 
 
-### Issues that needed to be addressed:
+#### Issues that needed to be addressed:
 
 - The Date is not in the standard format.
 - Some rows in the PropertyAddress is NULL
@@ -18,7 +18,7 @@ This is to demonstrate data cleaning before using it for analysis
 - Some Columns would not be useful for the analysis and therefore should be deleted.
 
 
-### METADATA:
+#### METADATA:
 - UniqueID — id number attributed to a buyer.
 - ParcelID — code attributed to a land.
 - LandUse — shows the different uses of land.
